@@ -1,0 +1,112 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.frame1 {
+  /* background-image: url('./components/Frame 1.png');  */
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  width: 100%;
+  height: 100%px;
+  top: -213px;
+  left: -363px;
+  gap: 0px;
+  border-radius: 60px 0px 0px 0px;
+  opacity: 1; 
+  
+}
+.frame2 {
+  /* background-image: url('./components/Frame 2.png');  */
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  width: 100%;
+  height: 100%;
+  top: -213px;
+  left: 1762px;
+  gap: 0px;
+  border-radius: 60px 0px 0px 0px;
+  opacity: 0px;
+
+  
+}
+.frame3 {
+  /* background-image: url('./components/Frame 3.png');  */
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  width: 1920px;
+  height: 1080px;
+  top: -213px;
+  left: -363px;
+  gap: 0px;
+  border-radius: 60px 0px 0px 0px;
+  opacity: 1; 
+  
+}
+.frame4 {
+  /* background-image: url('./components/Frame 4.png');  */
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  width: 1920px;
+  height: 1080px;
+  top: -213px;
+  left: -363px;
+  gap: 0px;
+  border-radius: 60px 0px 0px 0px;
+  opacity: 1; 
+  
+}
+.frame5 {
+  /* background-image: url('./components/Frame 5.png');  */
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  width: 1920px;
+  height: 1080px;
+  top: -213px;
+  left: -363px;
+  gap: 0px;
+  border-radius: 60px 0px 0px 0px;
+  opacity: 1; 
+  
+}
+
